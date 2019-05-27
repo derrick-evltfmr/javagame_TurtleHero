@@ -16,6 +16,7 @@ The game was not developed perfectly though, there were still a lot could be imp
 The turtles live in a village which located at the shallow water area peacefully for long time. However, one day the vicious deep sea devil decide to invade the turtle village because of the abundant resources. Since the village has been stayed in peace for long time, there're no troops nor trained soldiers, you are the strongest turtle in the village, who always train your skills because of self interests. Now, you are the only turtle that can fight against the deep sea monsters and protect the village...
 
 
+
 ## Control your character
 ---
 ![](https://i.imgur.com/Yg4sCjs.jpg)
@@ -30,6 +31,8 @@ The turtles live in a village which located at the shallow water area peacefully
 ---
 ![](https://i.imgur.com/MFAjkgz.jpg)
 
+
+
 ## StarFish (Item that helps the turtleHero)
 ---
 ![](https://i.imgur.com/m8BCisF.jpg)
@@ -42,6 +45,8 @@ The turtles live in a village which located at the shallow water area peacefully
 ---
 ![](https://i.imgur.com/l7nlXjk.jpg)
 ( StarFish implemented Builder Pattern )
+
+
 
 ## Enemies 
 ---
@@ -61,4 +66,5 @@ The turtles live in a village which located at the shallow water area peacefully
 ---
 ![](https://i.imgur.com/WgwXYdi.jpg)
 ( Enemies implemented Strategy Pattern, take Deep Sea Devil as an example )
+
 
